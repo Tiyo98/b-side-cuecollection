@@ -39,8 +39,99 @@
 
 ---- 
 ## Singular
-Coming soon
+\
+ <img src="https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/a-01.webp" width="384" height="216"/>
+ <img src="https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/a-02.webp" width="384" height="216"/>
+ <img src="https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/a-03.webp" width="384" height="216"/>
+ <img src="https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/a-04.webp" width="384" height="216"/>
+ <img src="https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/b-03.webp" width="384" height="216"/>
+ <img src="https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/b-07.webp" width="384" height="216"/>
+
+  <details>
+  <summary>farewell-a-01</summary>
+  
+  ![gif](https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/a-01.webp)
+  \
+  ![cue](https://media.discordapp.net/attachments/752203178715644024/901081894739922994/unknown.png)
+  \
+  Wavedash with a low jump and start buffering dashes at the cue so you land before the transition
+ </details>
+ 
+  <details>
+  <summary>farewell-a-02</summary>
+  
+  ![gif](https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/a-02.webp)
+  \
+  ![cue](https://media.discordapp.net/attachments/752203178715644024/901118310664515654/unknown.png)
+  \
+  Transition hyper and release jump when you reach the pink crystal.
+  \
+  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/901118447621136404/unknown.png)
+  \
+  Bhop and upright demo when you in the middle of the electricity if you only count the electricity starting from the bg tiles. Buffer the other upright dash.
+ </details>
+ 
+  <details>
+  <summary>farewell-a-03</summary>
+  
+  ![gif](https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/a-03.webp)
+  \
+  ![cue](https://media.discordapp.net/attachments/752203178715644024/901106275293732894/unknown.png)
+  ![cue](https://media.discordapp.net/attachments/752203178715644024/901106484904099840/unknown.png)
+  \
+  Hyper bhop and start the downright dash at the hole in the bg tiles and upright dash when you're under the big star in the background.
+  \
+  ![cue](https://media.discordapp.net/attachments/752203178715644024/901106095496527932/unknown.png)
+  \
+  Try to neutral climbjump up and hold right for the last climbjump. That last climbjump should be on the top part of the dash block. After the neutral jump of the retreating dash block you want to diag demo so you reach the ceiling later and have more height. 
+ </details>
+ 
+  <details>
+  <summary>farewell-a-04</summary>
+  
+  ![gif](https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/a-04.webp)
+  \
+  ![cue](https://media.discordapp.net/attachments/752203178715644024/901131255318458399/unknown.png)
+  \
+  Get a low height cornerboost in the previous room and buffer the dash for the wavedash out of transition. Jump late on the wavedash so you get a lot of coyote. Buffer all 3 dashes(right,upright demo, downright) when you reach the corner. 
+  \
+  ![cue](https://media.discordapp.net/attachments/752203178715644024/901131378077352026/unknown.png)
+  \
+  Right dash and buffer the next one when you're inbetween the background tile and the pillar above you.
+  \
+  ![cue](https://media.discordapp.net/attachments/752203178715644024/901116908114436107/unknown.png)
+  ![cue](https://media.discordapp.net/attachments/752203178715644024/901117046153158726/unknown.png)
+  \
+  When you're in between the 2 green tiles start the upright dash and right dash when you reach the gap. If you landed on the left side of the spring block, cut the right dash and do another upright dash.
+ </details> 
+  
+  <details>
+  <summary>farewell-b-03</summary>
+  
+  ![gif](https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/b-03.webp)
+  \
+  ![cue](https://media.discordapp.net/attachments/752203178715644024/901166952007995462/unknown.png)
+  \
+  Transition demohyper and do the downright in the middle of the lower part of the background tile. Exiting the dreamblock you want to do a small jump for the dreamhyper so you always get a low position in the next dreamblock. Buffer the downright out of that dreamhyper. Buffer demo and upright dash out of the dreamblock and do a short dreamhyper onto the fish. Immediately downright and the rest is pretty self explanatory. Not a lot of cues for this room sadly, but I hope the written explanation helps a bit.
+ </details>
+  
+  <details>
+  <summary>farewell-b-07</summary>
+  
+  ![gif](https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/b-07.webp)
+  \
+  ![cue](https://media.discordapp.net/attachments/752203178715644024/901164505709543434/unknown.png)
+  \
+  Start the jump for the wallbounce here and start buffering dashes when inside the dashcrystal.
+  \
+  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/901168976497901589/unknown.png)
+  \
+  Same for the second part. Start buffering the dashes when you're in the middle of the crystal
+ </details>
+ 
+----  
 ## Power Source
+Coming soon
 ## Remembered
 ## Event Horizon
 ## Determination
