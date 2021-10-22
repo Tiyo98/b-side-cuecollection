@@ -31,9 +31,10 @@
    
    ![gif](https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/intro-03-space.webp)
    \
+   ![cue](https://media.discordapp.net/attachments/752203178715644024/901170744929701909/unknown.png)
    ![cue](https://cdn.discordapp.com/attachments/752203178715644024/901074948133642341/unknown.png)
    \
-   Do an upright immediately after skipping cutscene. Land and buffer a fullheight jump, when you start falling do an updash and buffer a left jump. Wallkick of the moonblock while holding right and when you're in line with it do a right dash and neutral super. The jump of the super shouldn't be in coyote I try to aim for middle or right side of the block. An annoying part is the trigger you don't see so I recommend practicing with the hitbox view of [Celeste TAS](https://gamebanana.com/tools/6715). For more setups I recommend the [video guide by fishmcmuffins](https://www.youtube.com/watch?v=al_3Wu27C4M).
+   Do an upright immediately after skipping cutscene. Land and buffer a fullheight jump, when you start falling do an updash and buffer a left jump. Wallkick of the moonblock while holding right and when you're in line with it do a right dash and neutral super. The jump of the super should not be in coyote, so try to aim for middle or right side of the block. An annoying part is the trigger you don't see so I recommend practicing with the hitbox view of [Celeste TAS](https://gamebanana.com/tools/6715). For more setups I recommend the [video guide by fishmcmuffins](https://www.youtube.com/watch?v=al_3Wu27C4M).
 	
  </details>
 
