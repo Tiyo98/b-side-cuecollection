@@ -20,6 +20,6 @@ Attached below are some drawings of format of the guide, and you should read it 
 ![1](https://cdn.discordapp.com/attachments/293555577991200770/775444116707606558/unknown.png)
 ![for now](https://cdn.discordapp.com/attachments/293555577991200770/775400802339913768/unknown.png)
 ## Credits
-Thanks for buhbai and koralreef for the inspiration for these guides. And special shoutout again to koralreef for basically just copying parts of this. Thanks to everyone reading this
+Thanks for buhbai and koralreef for the inspiration for these guides. And special shoutout again to koralreef as I'm basically just copying parts of [his collection](https://github.com/koralreeef/anypercent-cuecollection). Thanks to everyone reading this
 ## Updates
 YYYY-MM-DD: Release of this whenever it will be
