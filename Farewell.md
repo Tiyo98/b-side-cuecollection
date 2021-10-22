@@ -13,11 +13,11 @@
 
 ## Start
 \
-<img src="https://github.com/Tiyo98/celeste-cuecollection/main/images/intro-01-future.webp" width="384" height="216"/>
-<img src="https://github.com/Tiyo98/celeste-cuecollection/main/images/intro-03-space.webp" width="384" height="216"/>
+<img src="https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/intro-01-future.webp" width="384" height="216"/>
+<img src="https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/intro-03-space.webp" width="384" height="216"/>
  <details>
   <summary>farewell-intro-01-future</summary>
-  ![gif](https://github.com/Tiyo98/celeste-cuecollection/main/images/intro-01-future.webp)
+  ![gif](https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/intro-01-future.webp)
   \
   ![cue](https://media.discordapp.net/attachments/752203178715644024/901072617082077224/unknown.png)
   \
@@ -25,7 +25,7 @@
  </details>
   <details>
    <summary>farewell-intro-03-space, DTS</summary>
-   ![gif](https://github.com/Tiyo98/celeste-cuecollection/main/images/intro-03-space.webp)
+   ![gif](https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/intro-03-space.webp)
    \
    ![cue](https://cdn.discordapp.com/attachments/752203178715644024/901074948133642341/unknown.png)
    \
