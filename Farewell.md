@@ -78,9 +78,8 @@
   ![gif](https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/a-03.webp)
   \
   ![cue](https://media.discordapp.net/attachments/752203178715644024/901106275293732894/unknown.png)
-  ![cue](https://media.discordapp.net/attachments/752203178715644024/901106484904099840/unknown.png)
   \
-  Hyper bhop and start the downright dash at the hole in the bg tiles and upright dash when you're under the big star in the background.
+  Honestly awful strat and idk if I should recommend it, but you can back it up quite easily. Hyper bhop and start the downright dash at the hole in the bg tiles.
   \
   ![cue](https://media.discordapp.net/attachments/752203178715644024/901106095496527932/unknown.png)
   \
@@ -122,17 +121,71 @@
   ![gif](https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/b-07.webp)
   \
   ![cue](https://media.discordapp.net/attachments/752203178715644024/901164505709543434/unknown.png)
+  ![cue](https://media.discordapp.net/attachments/752203178715644024/903651267925147738/unknown.png)
   \
-  Start the jump for the wallbounce here and start buffering dashes when inside the dashcrystal.
+  Start the jump for the wallbounce here and release jump roughly when you're over the dash crystal.
   \
   ![cue](https://cdn.discordapp.com/attachments/752203178715644024/901168976497901589/unknown.png)
   \
-  Same for the second part. Start buffering the dashes when you're in the middle of the crystal
+  Start buffering the dashes when you're in the middle of the crystal
  </details>
  
 ----  
 ## Power Source
-Coming soon
+\
+ <img src="https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/c-alt-00.webp" width="384" height="216"/>
+ <img src="https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/c-alt-01.webp" width="384" height="216"/>
+ <img src="https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/d-05(slow).webp" width="384" height="216"/>
+ <img src="https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/d-05(fast).webp" width="384" height="216"/>
+ 
+  <details>
+  <summary>farewell-c-alt-00</summary>
+  
+  ![gif](https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/c-alt-00.webp)
+  \
+  ![cue](https://media.discordapp.net/attachments/752203178715644024/903657651915849759/unknown.png)
+  \
+  Important for the upright into the jelly is to do it into the bottom left or bottom of it. If you do it into the middle left side you can be too high even if you fast fall all the way.
+  \
+  ![cue](https://cdn.discordapp.com/attachments/752203178715644024/903660365374697472/vlcsnap-2021-10-29-17h03m15s101.png)
+  \
+  Not really a cue, but to guarentee a clean landing, throw the jelly pretty late before the jelly regrab.
+ </details>
+  
+  <details>
+  <summary>farewell-c-alt-01</summary>
+  
+  ![gif](https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/c-alt-01.webp)
+  \
+  ![cue](https://media.discordapp.net/attachments/752203178715644024/903661542275436544/unknown.png)
+  \
+  Downright dash when you're over the hole in the background
+ </details>
+ 
+  <details>
+  <summary>farewell-d-05,Power Source Skip(safe)</summary>
+  
+  ![gif](https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/d-05(slow).webp)
+  \
+  ![cue](https://media.discordapp.net/attachments/752203178715644024/903663077411684352/unknown.png)
+  ![cue](https://media.discordapp.net/attachments/752203178715644024/903656309143011388/unknown.png)
+  \
+  Get onto the middle of the ground and do a medium jump in place. This should bring Madeline's head barely over the spinners but even being a bit low doesn't matter that much.
+  Throw the jelly, land, jump into the bubble and fast activate it. Then time the updash through the gap. FYI: You can hold grab all the way when inside the bubble.
+  For the last dash either neutral drop the jelly or throw it and updash. If you throw it you have to pay attention of not being too far left as throwing a jelly pushes you into the direction you're not facing.
+ </details>
+ 
+  <details>
+  <summary>farewell-d-05,Power Source Skip(fast)</summary>
+  
+  ![gif](https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/d-05(fast).webp)
+  \
+  ![cue](https://media.discordapp.net/attachments/752203178715644024/903654973970186240/unknown.png)
+  \
+  Wallkick of the left wall after the transition and release jump when you reach the end of the wooden platform or the bg tile above the red line on the pic. You can practically choose your visual cue. Do a small jump and throw the jelly when close to the spinners. Buffer updash, downleft and then fast activate the bubble. You can also dash left and slow activate the bubble if you prefer that.
+ </details>
+ 
+----
 ## Remembered
 ## Event Horizon
 ## Determination
