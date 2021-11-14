@@ -7,7 +7,7 @@
 - [Remembered](#remembered)
 - [Event Horizon](#event-horizon)
 - [Determination](#determination)
-- [Stubborness](#stubborness)
+- [Stubbornness](#stubbornness)
 - [Reconcilation](#reconcilation)
 - [Farewell](#farewell)
 
@@ -45,6 +45,7 @@
  <img src="https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/a-02.webp" width="384" height="216"/>
  <img src="https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/a-03.webp" width="384" height="216"/>
  <img src="https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/a-04.webp" width="384" height="216"/>
+ <img src="https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/b-01.webp" width="384" height="216"/>
  <img src="https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/b-03.webp" width="384" height="216"/>
  <img src="https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/b-07.webp" width="384" height="216"/>
 
@@ -103,7 +104,21 @@
   ![cue](https://media.discordapp.net/attachments/752203178715644024/901117046153158726/unknown.png)
   \
   When you're in between the 2 green tiles start the upright dash and right dash when you reach the gap. If you landed on the left side of the spring block, cut the right dash and do another upright dash.
- </details> 
+ </details>
+ 
+  <details>
+  <summary>farewell-b-03</summary>
+  
+  ![gif](https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/b-01.webp)
+  \
+  ![cue](https://media.discordapp.net/attachments/752203178715644024/909441271469330492/unknown.png)
+  \
+  In the previous room start the jump for the super when you reach the middle of this koral arc.
+  \
+  ![cue](https://media.discordapp.net/attachments/752203178715644024/909443177524633600/unknown.png)
+  \
+  Downright and release right when you're above the spinner and then demo to the fish.
+ </details>
   
   <details>
   <summary>farewell-b-03</summary>
@@ -127,7 +142,7 @@
   \
   ![cue](https://cdn.discordapp.com/attachments/752203178715644024/901168976497901589/unknown.png)
   \
-  Start buffering the dashes when you're in the middle of the crystal
+  This should work if you buffer the dashes when you fastfall but if you slowfall at some point you die. Can also try to react instead of buffer and do it in the middle of the crystal.
  </details>
  
 ----  
@@ -135,6 +150,7 @@
 \
  <img src="https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/c-alt-00.webp" width="384" height="216"/>
  <img src="https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/c-alt-01.webp" width="384" height="216"/>
+ <img src="https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/d-00.webp" width="384" height="216"/>
  <img src="https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/d-05(slow).webp" width="384" height="216"/>
  <img src="https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/d-05(fast).webp" width="384" height="216"/>
  
@@ -163,6 +179,16 @@
  </details>
  
   <details>
+  <summary>farewell-d-00</summary>
+  
+  ![gif](https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/d-00.webp)
+  \
+  ![cue](https://media.discordapp.net/attachments/752203178715644024/909447931034234920/unknown.png)
+  \
+  Jump on the right side of the moonblock and updash when you're past it. If you hit the moonblock on top bail out and do a different strat. Delay left dash until you're max height and then buffer the next 4 dashes. For the last dash space it out to gain more height.
+ </details>
+ 
+  <details>
   <summary>farewell-d-05,Power Source Skip(safe)</summary>
   
   ![gif](https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/d-05(slow).webp)
@@ -184,12 +210,69 @@
   \
   Wallkick of the left wall after the transition and release jump when you reach the end of the wooden platform or the bg tile above the red line on the pic. You can practically choose your visual cue. Do a small jump and throw the jelly when close to the spinners. Buffer updash, downleft and then fast activate the bubble. You can also dash left and slow activate the bubble if you prefer that.
  </details>
- 
+
 ----
 ## Remembered
+\
+ <img src="https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/e-03.webp" width="384" height="216"/>
+ <img src="https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/e-04.webp" width="384" height="216"/>
+ <img src="https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/e-07.webp" width="384" height="216"/>
+ <img src="https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/e-08.webp" width="384" height="216"/>
+  
+  <details>
+  <summary>farewell-e-03</summary>
+  
+  ![gif](https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/e-03.webp)
+  \
+  ![cue](https://media.discordapp.net/attachments/752203178715644024/909452343278465115/unknown.png)
+  \
+  Low transition hyper and buffer upright->right dash when you reach the middle of the hole in the background.
+  \
+  ![cue](https://media.discordapp.net/attachments/752203178715644024/909452490276241478/unknown.png)
+  When you're past the cue do an upright and delay a right demo for the demohyper.
+ </details>
+  
+  <details>
+  <summary>farewell-e-04</summary>
+  
+  ![gif](https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/e-04.webp)
+  \
+  ![cue](https://media.discordapp.net/attachments/752203178715644024/909458151785517127/unknown.png)
+  \
+  Release jump for the hyper in the transition and then hold downright after. When you reach the cue release down and only hold right.
+  \
+  No cue for the end part, but just a tip; because of jelly throw cooldown you can release grab immediately and the end strat just works.
+ </details>
+ 
+  <details>
+  <summary>farewell-e-07</summary>
+  
+  ![gif](https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/e-07.webp)
+  \
+  ![cue](https://media.discordapp.net/attachments/752203178715644024/909462817088880720/unknown.png)
+  \
+  Updash when you reach the piece of floaty rubble. Delay the upright dashes and the last upright has to be a demo.
+ </details>
+  
+  <details>
+  <summary>farewell-e-08</summary>
+  
+  ![gif](https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/e-08.webp)
+  \
+  ![cue](https://media.discordapp.net/attachments/752203178715644024/909464588385402890/unknown.png)
+  ![cue](https://media.discordapp.net/attachments/752203178715644024/909464666458185778/unknown.png)
+  \
+  Throw the jelly when you're above the crystal and updash. Right dash to the block and climb to the bottom and release when you reach the jelly gate and space the dashes slightly.
+  \
+  ![cue](https://media.discordapp.net/attachments/752203178715644024/909465099419418664/unknown.png)
+  \
+  Upright when you're past or in line with the right side of the bg tile and release directions when you reach the crystal.
+ </details>  
+
+----
 ## Event Horizon
 ## Determination
-## Stubborness
+## Stubbornness
 ## Reconcilation
 ## Farewell
 [⇦ Back to Main Page](https://github.com/Tiyo98/celeste-cuecollection)
