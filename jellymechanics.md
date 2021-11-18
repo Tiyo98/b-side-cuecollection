@@ -72,7 +72,7 @@ This section will explain all relevant jelly mechanics for speedrunning farewell
  \
  Delaying your grab input can mean you gain more height as you get the boost later.
  \
- <img src="https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/jellygrabholdmore.webp" width="384" height="216"/>
+ <img src="https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/jellygrabdelaymore.webp" width="384" height="216"/>
  <img src="https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/jellyupdemo.webp" width="384" height="216"/>
  \
  You can also delay the grab input so much that you don't get a boost. Sometimes even a demo works for that.
