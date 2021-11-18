@@ -9,11 +9,11 @@ You can access each markdown file through the table of contents, or by opening e
 - [Jelly Mechanics](https://github.com/Tiyo98/celeste-cuecollection/blob/main/jellymechanics.md)
 - [Farewell DTS](https://github.com/Tiyo98/celeste-cuecollection/blob/main/Farewell.md)
 ## Introduction
-This will show the cues for some minor or major strats I personally use in chapters that are not currently shown in the [cue collection of koralreef](https://github.com/koralreeef/anypercent-cuecollection). This will only have Farewell DTS for now but I plan to add C-Sides, B-Sides, 6A and maybe ARB chapters.
+This will show the cues for some minor or major strats I personally use in chapters that are not currently shown in [koralreef's cue collection](https://github.com/koralreeef/anypercent-cuecollection). This will only have Farewell DTS for now but I plan to add C-Sides, B-Sides, 6A and maybe ARB chapters.
 \
-**Notes**: This is most often strats that I use, not neccessaryly the fastest ones. Also some strats I use just don't have cues so they will not be listed, but for every strat I use one it will be listed here. This is in no way a complete guide to learn the levels, it's only a way to assist with running them. If you have a cue that should be added dm me on Discord (Tiyo#0575).
+**Notes**: This is most often strats that I use, not necessarily the fastest ones. Also some strats I use just don't have cues so they will not be listed, but for every strat I use one it will be listed here. This is in no way a complete guide to learn the levels, it's only a way to assist with running them. If you have a cue that should be added dm me on Discord (Tiyo#0575).
 \
-I assume the reader already knows what each tech is named and what they do. I will not explain them here. If you need further help go to the [Celeste discord server](https://discord.com/invite/celeste) and ask in the #speedrun-help channel.
+I assume the reader already knows what each tech is named and what they do. I will not explain them here. If you need further help, go to the [Celeste discord server](https://discord.com/invite/celeste) and ask in the #speedrun-help channel.
 ## Formatting
 This collection will be split up into different markdown files to avoid needing to load 50+ gifs at a time when checking this page. Each chapter will have its own table of contents and follow the format given below.
 Attached below are some drawings of format of the guide, and you should read it as such. Shoutouts to koralreef for these.
