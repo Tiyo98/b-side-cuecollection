@@ -6,6 +6,7 @@
 - [Credits](#credits)
 ## Content
 You can access each markdown file through the table of contents, or by opening each markdown file at the top in a new link.
+- [Jelly Mechanics](https://github.com/Tiyo98/celeste-cuecollection/blob/main/jellymechanics.md)
 - [Farewell DTS](https://github.com/Tiyo98/celeste-cuecollection/blob/main/Farewell.md)
 ## Introduction
 This will show the cues for some minor or major strats I personally use in chapters that are not currently shown in the [cue collection of koralreef](https://github.com/koralreeef/anypercent-cuecollection). This will only have Farewell DTS for now but I plan to add C-Sides, B-Sides, 6A and maybe ARB chapters.

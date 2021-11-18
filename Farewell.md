@@ -1,6 +1,8 @@
 # Farewell DTS
 ![header](https://cdn.discordapp.com/attachments/752203178715644024/901051628013105212/20211022121702_1.jpg)
-**Important note:** This is for Farewell with the Dash Trigger Skip or short DTS which allows you to play Farewell up to Stubborness with 2 dashes. Cues for 1 dash Farewell are not planned as of yet.
+**Important note:** This is for Farewell with the Dash Trigger Skip or short DTS which allows you to play Farewell up to Stubborness with 2 dashes. Cues for 1 dash Farewell are not planned as of yet, but some strats are similar and from [Stubbornness](#stubbornness) onwards it's the same as 1 dash.
+\
+Jelly mechanics are kinda weird at first so I recommend you give a [Jelly Mechanics](https://github.com/Tiyo98/celeste-cuecollection/blob/main/jellymechanics.md) a read as I mostly assume in this that you know them.
 - [Start](#start)
 - [Singular](#singular)
 - [Power Source](#power-source)
