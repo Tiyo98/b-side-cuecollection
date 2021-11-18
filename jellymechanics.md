@@ -45,10 +45,10 @@ This section will explain all relevant jelly mechanics for speedrunning farewell
  ![gif](https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/jellyregrab.webp)
  \
  You can buffer dash before releasing grab to make the regrab a bit easier.
- \
+ \ 
  ![gif](https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/jellythrowdelay.webp)
  \
- There is a certain period after grabbing a jelly where you can't throw it. This is only useful in 2 places but it's very good to know.
+ There is also a certain period after grabbing a jelly where you can't throw it. This is only useful in 2 places but it's very good to know.
 
 ----
 ## Backboosts
@@ -72,10 +72,14 @@ This section will explain all relevant jelly mechanics for speedrunning farewell
  \
  Delaying your grab input can mean you gain more height as you get the boost later.
  \
- <img src="https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/jellygrabdelaymore.webp" width="384" height="216"/>
+ ![gif](https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/jellygrabdelaymore.webp)
+ \
+ You can also delay the grab input so much that you don't get a boost at all.
+ \
+ <img src="https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/jellyregrabdemo.webp" width="384" height="216"/>
  <img src="https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/jellyupdemo.webp" width="384" height="216"/>
  \
- You can also delay the grab input so much that you don't get a boost. Sometimes holding grab and just demoing works for that.
+ There is also a delay of regrabbing a jelly. When you buffer a dash to regrab a jelly the dash ends before you're able to regrab it. For demos this is important as you can only grab a jelly when crouched while in dash state. But as the dash ended you have to wait until you're uncrouched as you can't grab it while crouched. This happens when you start falling so you don't have upwards momentum that gives you a boost. The same principle applys if you reach a jelly late like in the 2nd gif as the dash ended before you reach it.
 \
 [⇦ Back to Main Page](https://github.com/Tiyo98/celeste-cuecollection)
 
