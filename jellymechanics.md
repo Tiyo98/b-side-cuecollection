@@ -4,7 +4,10 @@ This section will explain all relevant jelly mechanics for speedrunning farewell
 
 - [Basic Mechanics](#basic-mechanics)
 - [Jellyvator](#jellyvator)
-
+- [Jellyultra](#jellyultra)
+- [Regrabs](#regrabs)
+- [Backthrows](#backthrows)
+- [Other Mechanics](#others)
 ##Basic Mechanics
 \
  Already with just normally grabbing a jelly there are some differences with how you fall when holding it.
