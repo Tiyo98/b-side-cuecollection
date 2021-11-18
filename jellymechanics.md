@@ -11,8 +11,8 @@ This section will explain all relevant jelly mechanics for speedrunning farewell
 ## Basic Mechanics
 \
  Already with just normally grabbing a jelly there are some differences with how you fall when holding it.
- ![gif](https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/jellyholddown.webp)
- ![gif](https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/jellyholdnothing.webp)
+ <img src="https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/jellyholddown.webp" width="384" height="216"/>
+ <img src="https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/jellyholdnothing.webp" width="384" height="216"/>
  \
  First there is fast falling with a jelly and holding no direction. For fast falling you just hold down. Both of these are pretty self explanatory.
  \
@@ -20,8 +20,8 @@ This section will explain all relevant jelly mechanics for speedrunning farewell
  \
  Holding up makes you fall significantly slower. Pretty useful if you want to travel a lot of distance without losing too much height.
  \
- ![gif](https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/jellyholdjump.webp)
- ![gif](https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/jellyholdup+jump.webp)
+ <img src="https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/jellyholdjump.webp" width="384" height="216"/>
+ <img src="https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/jellyholdup+jump.webp" width="384" height="216"/>
  \
  At the peak of your height you fall significantly less when holding jump. Combining that with pressing "up" you fall even slower. Be aware it only matters **at roughly the peak of your height**. It doesn't work after a certain amount of falling.
  
