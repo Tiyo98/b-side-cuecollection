@@ -6,7 +6,7 @@ This section will explain all relevant jelly mechanics for speedrunning farewell
 - [Jellyvator](#jellyvator)
 - [Jellyultra](#jellyultra)
 - [Regrabs](#regrabs)
-- [Backthrows](#backthrows)
+- [Backboosts](#backboosts)
 - [Other Mechanics](#others)
 ## Basic Mechanics
 \
@@ -37,7 +37,7 @@ This section will explain all relevant jelly mechanics for speedrunning farewell
 \
  ![gif](https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/jellyultra.webp)
  \
- When you dash diagonally down with momentum like from a hyper you keep your speed until the dash runs out. If you hit the ground you gain a 1.2x speed modifier but that also runs out when the dash runs out. This can be canceled when picking up objects like jellys which lets you fly across the screen.
+ When you dash diagonally down with momentum like from a hyper you keep your speed until the dash runs out. If you hit the ground you gain a 1.2x speed modifier but that also runs out when the dash runs out. This can be canceled when picking up objects like jellies which lets you fly across the screen.
  
 ----
 ## Regrabs
@@ -51,7 +51,7 @@ This section will explain all relevant jelly mechanics for speedrunning farewell
  There is a certain period after grabbing a jelly where you can't throw it. This is only useful in 2 places but it's very good to know.
 
 ----
-## Backthrows
+## Backboosts
 \
  ![gif](https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/jellybackthrow.webp)
  \
@@ -66,6 +66,11 @@ This section will explain all relevant jelly mechanics for speedrunning farewell
  ![gif](https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/jellynodrop.webp)
  \
  If you hold down all the way without releasing it at all you don't drop it though.
+ \
+ <img src="https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/jellygrabhold.webp" width="384" height="216"/>
+ <img src="https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/jellygrabdelay.webp" width="384" height="216"/>
+ \
+ Delaying your grab input can mean you gain more height as you get the boost later.
 \
 [⇦ Back to Main Page](https://github.com/Tiyo98/celeste-cuecollection)
 
