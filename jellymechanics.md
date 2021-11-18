@@ -75,7 +75,7 @@ This section will explain all relevant jelly mechanics for speedrunning farewell
  <img src="https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/jellygrabdelaymore.webp" width="384" height="216"/>
  <img src="https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/jellyupdemo.webp" width="384" height="216"/>
  \
- You can also delay the grab input so much that you don't get a boost. Sometimes even a demo works for that.
+ You can also delay the grab input so much that you don't get a boost. Sometimes holding grab and just demoing works for that.
 \
 [⇦ Back to Main Page](https://github.com/Tiyo98/celeste-cuecollection)
 
