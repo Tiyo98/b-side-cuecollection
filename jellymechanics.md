@@ -48,7 +48,7 @@ This section will explain all relevant jelly mechanics for speedrunning farewell
  \ 
  ![gif](https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/jellythrowdelay.webp)
  \
- There is also a certain period after grabbing a jelly where you can't throw it. This is only useful in 2 places but it's very good to know.
+ There is a certain period after grabbing a jelly where you can't throw it. This is only useful in 2 places but it's very good to know.
 
 ----
 ## Backboosts
