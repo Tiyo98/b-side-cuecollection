@@ -109,7 +109,7 @@ Jelly mechanics are kinda weird at first so I recommend you give [Jelly Mechanic
  </details>
  
   <details>
-  <summary>farewell-b-03</summary>
+  <summary>farewell-b-01</summary>
   
   ![gif](https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/b-01.webp)
   \
@@ -241,7 +241,7 @@ Jelly mechanics are kinda weird at first so I recommend you give [Jelly Mechanic
   \
   ![cue](https://media.discordapp.net/attachments/752203178715644024/909458151785517127/unknown.png)
   \
-  Release jump for the hyper in the transition and then hold downright after. When you reach the cue release down and only hold right.
+  The strat is significantly easier if you jump a bit later for the demohyper in the previous room. Release jump for the hyper in the transition and then hold downright after. When you reach the cue release down and only hold right.
   \
   No cue for the end part, but just a tip; because of jelly throw cooldown you can release grab immediately and the end strat just works.
  </details>
