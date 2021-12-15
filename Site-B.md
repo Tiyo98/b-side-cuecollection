@@ -40,7 +40,7 @@
  ![gif](gif link)
  
  From landing on the safe area next to the spikes, do an upleft dash into a buffered right demodash. From here, holding downright, then grab once you're near the bottom, allows you to consistently cornerjump at the bottom, setting up a wallbounce to exit the room. Alternatively, from the right demodash into the dreamblock it may help to hold your demo button and just hold right instead, depending on whether your demo button is also bound to movement down.
- </summary>
+ </details>
  
  <details>
  <summary>site-b-06</summary>
@@ -113,7 +113,7 @@
  \
  This is an alternative route for this room some people may find easier, especially if you dislike the neutral dream doublejump in the other route.
  
- </summary>
+ </details>
  
  <details>
  <summary>site-b-11, altar skip</summary>
