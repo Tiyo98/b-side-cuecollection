@@ -10,12 +10,12 @@ You can access each markdown file through the table of contents, or by opening e
 - [Farewell DTS](https://github.com/Tiyo98/celeste-cuecollection/blob/main/Farewell.md)
 - [Forsaken City B-Side](https://github.com/Tiyo98/farewell-b-side-cuecollection/blob/main/City-B.md)
 - [Old Site B-Side](https://github.com/Tiyo98/farewell-b-side-cuecollection/blob/main/Site-B.md)
-- Celestial Resort B-Side
-- Golden Ridge B-Side
-- Mirror Temple B-Side
-- Reflection B-Side
-- Summit B-Side
-- Core B-Side
+- [Celestial Resort B-Side](https://github.com/Tiyo98/farewell-b-side-cuecollection/blob/main/Resort-B.md)
+- [Golden Ridge B-Side](https://github.com/Tiyo98/farewell-b-side-cuecollection/blob/main/Ridge-B.md)
+- [Mirror Temple B-Side](https://github.com/Tiyo98/farewell-b-side-cuecollection/blob/main/Temple-B.md)
+- [Reflection B-Side](https://github.com/Tiyo98/farewell-b-side-cuecollection/blob/main/Reflection-B.md)
+- [Summit B-Side](https://github.com/Tiyo98/farewell-b-side-cuecollection/blob/main/Summit-B.md)
+- [Core B-Side](https://github.com/Tiyo98/farewell-b-side-cuecollection/blob/main/Core-B.md)
 ## Introduction
 This will show the cues for some minor or major strats I personally use in chapters that are not currently shown in [koralreef's cue collection](https://github.com/koralreeef/anypercent-cuecollection). This will only have Farewell DTS for now but I plan to add C-Sides, B-Sides, 6A and maybe ARB chapters.
 \
