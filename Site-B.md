@@ -71,10 +71,10 @@
 ----
 ## Dream Altar
 \
- <img src="dreamblock upright">
- <img src="spike jump">
- <img src="neutral ddj?">
- <img src="altar skip">
+ <img src="https://github.com/Tiyo98/farewell-b-side-cuecollection/blob/main/images/site/2b%20upright.webp" width="384" height="216"/>
+ <img src="https://github.com/Tiyo98/farewell-b-side-cuecollection/blob/main/images/site/2b%20spike%20jump.webp" width="384" height="216"/>
+ <img src="https://github.com/Tiyo98/farewell-b-side-cuecollection/blob/main/images/site/2b%20neutral%20ddj.webp" width="384" height="216"/>
+ <img src="https://github.com/Tiyo98/farewell-b-side-cuecollection/blob/main/images/site/2b%20altar%20skip.webp" width="384" height="216"/>
  
  <details>
  <summary>site-b-08</summary>
