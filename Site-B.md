@@ -92,7 +92,7 @@
  
  ![gif](https://github.com/Tiyo98/farewell-b-side-cuecollection/blob/main/images/site/2b%20spike%20jump.webp)
  \
- There are a few setups to the spike jump in this room worth mentioning. One method is to hug the right wall on entry, dash up into the dreamblock, hold right then at some point after you have reached the peak of your jump briefly tap left. This is most viable on keyboard, however it can be viable on controller, either with a movement left button or reaching over with your right hand to press left on the dpad if you are an analog user.
+ There are a few setups to the spike jump in this room worth mentioning. One method is to hug the right wall on entry, dash up into the dreamblock, hold right, then at some point after you have reached the peak of your jump briefly tap left. This is most viable on keyboard, however it can be viable on controller, either with a movement left button or reaching over with your right hand to press left on the dpad if you are an analog user.
  
  Alternatively, you can hug the right wall on entry, dash up into the dreamblock, hold right then at some point briefly let go of right. This has the same effect, but may be easier on certain control schemes.
  
@@ -109,7 +109,7 @@
  ![gif](https://github.com/Tiyo98/farewell-b-side-cuecollection/blob/main/images/site/2b%20neutral%20ddj.webp)
  \
  This screen is somewhat self-explanatory, but there are a few things worth noting here. Firstly, aim to be as far left as possible when dashing up into this dreamblock initially. This will allow you to reach the coin without doing a walljump on the left side, saving a few tenths. Afterwards, doing a left demodash into the dreamblock then doing a neutral dream doublejump once you exit allows you to skip the left wall entirely, saving a bit. This is somewhat difficult, but it is also fairly low risk, so I would recommend giving it a try.
- ![gif](gif link)
+ ![gif](https://github.com/Tiyo98/farewell-b-side-cuecollection/blob/main/images/site/2b%20alt%20route.webp)
  \
  This is an alternative route for this room some people may find easier, especially if you dislike the neutral dream doublejump in the other route.
  
