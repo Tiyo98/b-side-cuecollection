@@ -118,7 +118,7 @@
  <details>
  <summary>site-b-11, altar skip</summary>
  
- ![gif](gif link)
+ ![gif](https://github.com/Tiyo98/farewell-b-side-cuecollection/blob/main/images/site/2b%20altar%20skip.webp)
  \
  This is one of the biggest skips in the game, saving around 7 seconds over collecting all the coins in this room, and can be made very trivial with a demodash button, so I would highly recommend learning it at all levels.. Upon entering this screen, do a normal upright dash into the dreamblock, then hold up+left+grab. If you want to be safe, from here you can climb up slightly until you are near the top here. Then, do an upleft demodash into an upright dash to exit the room, succesfully having skipped all the coins. (i want to add more here but need to think of words)
  
