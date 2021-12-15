@@ -81,9 +81,9 @@
  
  ![gif](gif link)
  \
- ![cue](cue link)
+ ![cue](https://cdn.discordapp.com/attachments/785077819771453461/920710025251520633/2b1.png)
  \
- To set up the upright through the wall here, line up Madeline's hand roughly with the bottom half of this pink diamond. (will elaborate more on this)
+ To set up the upright through the wall here, line up Madeline's hand roughly with the bottom half of this pink diamond. The pixel shown in the cue is the highest pixel this will work, there are 2 pixels below which also work. (need to test that's true + show other method)
  
  </details>
  
