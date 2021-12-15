@@ -19,7 +19,7 @@
   </details>
   
 ----
-##Combination Lock
+## Combination Lock
 \
  <img src="room 2 ddj"/>
  <img src="room 3 cornerjump"/>
@@ -69,7 +69,7 @@
  
 
 ----
-##Dream Altar
+## Dream Altar
 \
  <img src="dreamblock upright">
  <img src="spike jump">
