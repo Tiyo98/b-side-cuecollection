@@ -8,6 +8,14 @@
 You can access each markdown file through the table of contents, or by opening each markdown file at the top in a new link.
 - [Jelly Mechanics](https://github.com/Tiyo98/celeste-cuecollection/blob/main/jellymechanics.md)
 - [Farewell DTS](https://github.com/Tiyo98/celeste-cuecollection/blob/main/Farewell.md)
+- [Forsaken City B-Side](https://github.com/Tiyo98/farewell-b-side-cuecollection/blob/main/City-B.md)
+- [Old Site B-Side](https://github.com/Tiyo98/farewell-b-side-cuecollection/blob/main/Site-B.md)
+- Celestial Resort B-Side
+- Golden Ridge B-Side
+- Mirror Temple B-Side
+- Reflection B-Side
+- Summit B-Side
+- Core B-Side
 ## Introduction
 This will show the cues for some minor or major strats I personally use in chapters that are not currently shown in [koralreef's cue collection](https://github.com/koralreeef/anypercent-cuecollection). This will only have Farewell DTS for now but I plan to add C-Sides, B-Sides, 6A and maybe ARB chapters.
 \
