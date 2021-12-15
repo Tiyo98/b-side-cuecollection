@@ -1,7 +1,7 @@
-#Old Site B-Side
+# Old Site B-Side
  
 - [Start](#start)
-- [Combination Lock](#combo-lock)
+- [Combination Lock](#combination-lock)
 - [Dream Altar](#dream-altar)
 
 ## Start
