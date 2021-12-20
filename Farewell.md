@@ -264,7 +264,7 @@ Jelly mechanics are kinda weird at first so I recommend you give [Jelly Mechanic
   ![cue](https://media.discordapp.net/attachments/752203178715644024/909464588385402890/unknown.png)
   ![cue](https://media.discordapp.net/attachments/752203178715644024/920794354761748560/unknown.png)
   \
-  Throw the jelly when you're above the crystal and updash. Fall down and slightly to the left so you're exactly at the corner in the bg tile as shown on the pic. Dash downright through the crystal and grab the block. When it starts moving you want to release grab and do 3 right dashes and 1 updash. Drift to the left, grab the jelly and then do a small jump of the block.
+  Throw the jelly when you're above the crystal and updash. Fall down and slightly to the left so you're exactly at the corner in the bg tile as shown on the pic. Dash downright through the crystal to keep both dashes and grab the block. When it starts moving you want to release grab and do 3 right dashes and 1 updash. Drift to the left, grab the jelly and then do a small jump of the block.
   \
   ![cue](https://media.discordapp.net/attachments/752203178715644024/909465099419418664/unknown.png)
   \
