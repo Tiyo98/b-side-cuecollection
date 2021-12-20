@@ -187,7 +187,7 @@ Jelly mechanics are kinda weird at first so I recommend you give [Jelly Mechanic
   \
   ![cue](https://media.discordapp.net/attachments/752203178715644024/909447931034234920/unknown.png)
   \
-  Jump on the right side of the moonblock and updash when you're past it. If you hit the moonblock on top bail out and do a different strat. Delay left dash until you're max height and then buffer the next 4 dashes. For the last dash space it out to gain more height.
+  Jump on the right side of the moonblock and updash when you're past it. If you hit that moonblock with a jump or dash bail out and do a different strat. Delay left dash until you're max height and then buffer the next 4 dashes. For the last dash space it out to gain more height.
  </details>
  
   <details>
@@ -262,13 +262,13 @@ Jelly mechanics are kinda weird at first so I recommend you give [Jelly Mechanic
   ![gif](https://github.com/Tiyo98/celeste-cuecollection/blob/main/images/farewell/e-08.webp)
   \
   ![cue](https://media.discordapp.net/attachments/752203178715644024/909464588385402890/unknown.png)
-  ![cue](https://media.discordapp.net/attachments/752203178715644024/909464666458185778/unknown.png)
+  ![cue](https://media.discordapp.net/attachments/752203178715644024/920794354761748560/unknown.png)
   \
-  Throw the jelly when you're above the crystal and updash. Right dash to the block and climb to the bottom and release when you reach the jelly gate and space the dashes slightly.
+  Throw the jelly when you're above the crystal and updash. Fall down and slightly to the left so you're exactly at the corner in the bg tile as shown on the pic. Dash downright through the crystal and grab the block. When it starts moving you want to release grab and do 3 right dashes and 1 updash. Drift to the left, grab the jelly and then do a small jump of the block.
   \
   ![cue](https://media.discordapp.net/attachments/752203178715644024/909465099419418664/unknown.png)
   \
-  Upright when you're past or in line with the right side of the bg tile and release directions when you reach the crystal.
+  Hit the spring on its top. Remember that you can hold up+jump to fall less when holding a jelly. Upright when you're past or in line with the right side of the bg tile and release directions when you reach the crystal.
  </details>  
 
 ----
