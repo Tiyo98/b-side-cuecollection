@@ -39,7 +39,7 @@
  
  ![gif](gif link)
  
- From landing on the safe area next to the spikes, do an upleft dash into a buffered right demodash. From here, holding downright, then grab once you're near the bottom, allows you to consistently cornerjump at the bottom, setting up a wallbounce to exit the room. Alternatively, from the right demodash into the dreamblock it may help to hold your demo button and just hold right instead, depending on whether your demo button is also bound to movement down.
+ From landing on the safe area next to the spikes, do an upleft dash into a buffered right demodash. From here, holding downright sets up a cornerjump at the bottom, from which you can wallbounce to exit the room.
  </details>
  
  <details>
@@ -60,11 +60,11 @@
  
  ![gif](https://github.com/Tiyo98/farewell-b-side-cuecollection/blob/main/images/site/2b%20coin%20skip.webp)
  \
- There are a few ways to skip the coins in this room, but the easiest (and most fullgame viable) setup is doing an upleft demodash over the coin block. This can be set up either by dashing far left out of the last dreamblock, or dashing on the right side and holding jump off a walljump off the right wall when you exit: whichever you prefer.
+ There are a few ways to skip the coins in this room, but the easiest setup is doing an upleft demodash over the coin block. This can be set up either by dashing far left out of the last dreamblock, or dashing on the right side and holding jump off a walljump off the right wall when you exit: whichever you prefer.
  \
  ![cue](https://cdn.discordapp.com/attachments/785077819771453461/920752729813569586/2b5.png)
  \
- From here, you can make it to the end of the room by pressing both jump buttons back to back: first to jump off the block, then the second to kick off the spiked wall behind you. To line this up, Madeline's hands should be roughly aligned with the black line or slightly below it. This has a few pixels leeway either side, so you can just use anywhere around the middle of the block as a rough cue for this. This strat as a whole saves a bit over 2 seconds over collecting the coins, and is rather lenient, so I would recommend trying it if you plan on running B-Side categories.
+ From here, you can make it to the end of the room by pressing both jump buttons back to back. To line this up, Madeline's hands should be roughly aligned with the black line or slightly below it. This has a few pixels leeway either side, so you can just use anywhere around the middle of the block as a rough cue for this. This strat as a whole saves a bit over 2 seconds over collecting the coins, and is rather lenient, so I would recommend trying it if you plan on running B-Side categories.
  </details>
  
 
@@ -92,14 +92,15 @@
  
  ![gif](https://github.com/Tiyo98/farewell-b-side-cuecollection/blob/main/images/site/2b%20spike%20jump.webp)
  \
- There are a few setups to the spike jump in this room worth mentioning. One method is to hug the right wall on entry, dash up into the dreamblock, hold right, then at some point after you have reached the peak of your jump briefly tap left. This is most viable on keyboard, however it can be viable on controller, either with a movement left button or reaching over with your right hand to press left on the dpad if you are an analog user.
+ There are a few setups to the spike cornerjump in this room worth mentioning:
  
- Alternatively, you can hug the right wall on entry, dash up into the dreamblock, hold right then at some point briefly let go of right. This has the same effect, but may be easier on certain control schemes.
+ - One method is to hug the right wall on entry, dash up into the dreamblock, hold right, then at some point after you have reached the peak of your jump briefly tap left. This is most viable on keyboard, but can be done on controller with a dedicated button or claw grip.
+ - Another method is like the above, but instead of tapping left, briefly let go of right. This achieves the same effect but can be more viable on certain control schemes.
  
  \
  ![gif](gif link)
  \
- One slightly slower, but perhaps more consistent setup is doing a neutral wallbounce when exiting the previous screen. This lines you up in such a way that you can just hold right out of updashing into the dreamblock. This spikejump as a whole saves around a second over taking the second dream block, so it is worth considering if you can get it consistent.
+ One slightly slower, but perhaps more consistent setup is doing a neutral wallbounce when exiting the previous screen. This lets you just hold right out of the dreamblock to get the spike jump.
  
  </details>
  
@@ -120,7 +121,7 @@
  
  ![gif](https://github.com/Tiyo98/farewell-b-side-cuecollection/blob/main/images/site/2b%20altar%20skip.webp)
  \
- This is one of the biggest skips in the game, saving around 7 seconds over collecting all the coins in this room, and can be made very trivial with a demodash button, so I would highly recommend learning it at all levels. Upon entering this screen, do a normal upright dash into the dreamblock, then hold up+left+grab. If you want to be safe, from here you can climb up slightly until you are near the top here. Then, do an upleft demodash into an upright dash to exit the room, succesfully having skipped all the coins. (i want to add more here but need to think of words)
+ This is one of the biggest skips in the game, saving around 7 seconds over collecting all the coins in this room, and can be made trivial with a demodash button, so I would highly recommend learning it at all levels. Upon entering this screen, do a normal upright dash into the dreamblock, then hold up+left+grab. If you want to be safe, from here you can climb up slightly until you are near the top here. Then, do an upleft demodash into an upright dash to exit the room, succesfully having skipped all the coins. (i want to add more here but need to think of words)
  
  </details>
  
